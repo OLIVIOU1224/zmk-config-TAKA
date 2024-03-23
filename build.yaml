@@ -1,6 +1,6 @@
 include:
   - board: nice_nano_v2
-    shield: totem_left
+    shield: TAKA_left
   - board: nice_nano_v2
-    shield: totem_right
+    shield: TAKA_right
 
