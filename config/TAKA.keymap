@@ -5,7 +5,7 @@
  */
 
 #define BASE 0
-#define nav  1
+#define NAV  1
 
 / {
         keymap {
