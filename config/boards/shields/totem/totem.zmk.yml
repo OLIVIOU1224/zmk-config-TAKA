@@ -1,11 +1,11 @@
 file_format: "1"
-id: totem
-name: TOTEM
+id: TAKA
+name: TAKA
 type: shield
-url: https://github.com/OLIVIOU1224/zmk-config-totem
+url: https://github.com/OLIVIOU1224/zmk-config-TAKA
 requires: [nice_nano_v2]
 features:
   - keys
 siblings:
-  - totem_left
-  - totem_right
+  - TAKA_left
+  - TAKA_right
