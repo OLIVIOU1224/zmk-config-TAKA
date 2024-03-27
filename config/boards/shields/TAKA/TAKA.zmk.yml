@@ -4,6 +4,7 @@ name: TAKA
 type: shield
 url: https://github.com/OLIVIOU1224/zmk-config-TAKA
 requires: [nice_nano_v2]
+exposes: [SSD1306(i2c)]
 features:
   - keys
   - display
