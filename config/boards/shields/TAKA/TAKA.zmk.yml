@@ -6,6 +6,7 @@ url: https://github.com/OLIVIOU1224/zmk-config-TAKA
 requires: [nice_nano_v2]
 features:
   - keys
+  - display
 siblings:
   - TAKA_left
   - TAKA_right
