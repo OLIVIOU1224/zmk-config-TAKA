@@ -13,8 +13,6 @@ if SHIELD_TAKA_LEFT || SHIELD_TAKA_RIGHT
 config ZMK_SPLIT
     default y
 
-endif
-
 if ZMK_DISPLAY
 
     config I2C
